@@ -1,8 +1,9 @@
 # Personal Portfolio Website
 
-**A modern, responsive portfolio website** built using **HTML** and **CSS**, designed to showcase personal information, skills, and academic projects in a clean, visually appealing layout.
+**A modern, responsive portfolio website** built using **HTML** and **CSS**, designed to showcase personal information, skills, and academic projects in a clean, visually appealing layout. 
 
 This project demonstrates how to structure a complete single-page website using semantic HTML, organized CSS files, glassmorphism styling, and a fully responsive design — making it a polished and professional portfolio suitable for academic submission.
+
 ---
 
 ## 🚀 Features
