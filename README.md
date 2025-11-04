@@ -37,12 +37,12 @@ This project demonstrates how to structure a complete single-page website using 
 
 ---
 ## 📂 Project Structure
-
+```
 My-Portfolio/
 ├── index.html      # Main portfolio webpage
 ├── style.css       # All custom styling and animations
 └── assets/         # Images, icons, (optional)
-
+```
 ---
 
 ## 🌐 Live Demo
