@@ -2,77 +2,51 @@ Personal Portfolio Website
 
 A modern, responsive portfolio website built using HTML and CSS, designed to showcase personal information, skills, and academic projects in a clean, visually appealing layout.
 
-This project demonstrates how to structure a complete single-page website using semantic HTML, organized CSS files, glassmorphism styling, and fully responsive design — making it a polished and professional portfolio suitable for academic submission.
+This project demonstrates how to structure a complete single-page website using semantic HTML, organized CSS files, glassmorphism styling, and a fully responsive design — making it a polished and professional portfolio suitable for academic submission.
 
 🚀 Features
 
-🎨 Modern UI Design — Soft colors, smooth edges, glassmorphism cards, and organized section-based layout.
+🎨 Modern UI Design — Soft colors, smooth edges, and glassmorphism cards for a clean and premium look.
 
 🧊 Glassmorphism Components — Frosted panels used across About, Skills, Projects, and Contact sections.
 
 👤 Hero Section — Includes profile image, name, and a professional subtitle.
 
-📘 About Me Section — Highlights academic background, interests in frontend development, UI/UX design, and Android app development.
+📘 About Me Section — Highlights academic background, front-end interests, UI/UX design, and Android app development.
 
-🛠️ Skills Section — Categorized skill items displayed in a clean and structured format.
+🛠️ Skills Section — Categorized skill items displayed with smooth progress animations.
 
-📂 Projects Showcase — Features three project cards with images: KnowledgeNest, PickTune, and Bestie’s Diner.
+📂 Projects Section — Showcases academic and personal projects with images, descriptions, and tech tags.
 
-📱 Responsive Layout — Mobile-friendly design using media queries for different screen sizes.
+✉️ Contact Section — Simple contact form and social media icons.
 
-✉️ Contact Form UI — Styled HTML form (static) for demonstration purposes.
-
-✅ Pure HTML & CSS — No JavaScript frameworks or backend required.
+📱 Fully Responsive — Adapts seamlessly to mobile, tablet, and desktop screens.
 
 🧠 Technologies Used
 Technology	Purpose
-HTML5	Structure and layout of all sections
-CSS3	Styling, animations, responsiveness, and visual design
-Google Fonts	Modern and clean typography
-GitHub Pages	Hosting and deployment
+HTML5	Structure of the website
+CSS3	Styling, layout, responsiveness
+Google Fonts	Clean and modern typography
+Font Awesome	Icons used throughout the UI
 📂 Project Structure
-📁 My-Portfolio
-├── index.html          # Main portfolio webpage
-├── style.css           # Core styling and layout design
-├── style2.css          # Additional section styling
-├── particles.css       # Optional background/visual effect styles
-├── responsive.css      # Media queries for responsive layout
-└── assets/
-    ├── profile.jpg
-    ├── knowledgeNest.png
-    ├── pickTune.png
-    └── restaurantManagementSystem.jpg
+My-Portfolio/
+├── index.html      # Main portfolio webpage
+├── style.css       # All custom styling and animations
+└── assets/         # Images, icons, (optional)
 
+🌐 Live Demo
 
-⚙️ How to Run the Project
+🔗 Live Portfolio: https://faiza-akter.github.io/My-Portfolio/
 
-Download or clone the repository:
+👩‍💻 Author
 
-git clone https://github.com/faiza-akter/My-Portfolio.git
-
-
-Open the project folder.
-
-Open the index.html file in any modern browser:
-
-My-Portfolio/index.html
-
-
-No server setup is required — the project runs entirely on static HTML & CSS.
-
-👨‍💻 Author
-
-Developed by: SM Faiza Akter Borsha
-Department of Software Engineering, Batch-5th
-Metropolitan University, Sylhet
+Developed by: Faiza Akter Borsha
+Department of Software Engineering, Metropolitan University, Sylhet
 
 ⭐ Acknowledgments
 
-Guidance from course instructors in the Web Programming course.
+Instructor guidance for academic web development practices
 
-Inspiration from modern UI/UX design trends and glassmorphism techniques.
+Inspiration from modern UI/UX design trends
 
-GitHub Pages for providing a simple hosting platform.
-
-🩵 Simple. Elegant. Responsive.
-A clean personal portfolio designed with pure HTML & CSS for academic submission and personal branding.
+Font Awesome & Google Fonts for visual enhancements
